@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m currently Studying at technische hochschule deggendorf
+- 📫 How to reach me: ajayi.ikponmwosa108@gmail.com
 
 <!--
 **Ajayi108/Ajayi108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
