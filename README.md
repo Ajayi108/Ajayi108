@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ikponmwosa Ajayi 👋
+# Hi, I'm Ikponmwosa Ajayi 👋You can call me Osa's
 
 ### Student developer building practical AI, machine-learning, and full-stack applications
 
