@@ -1,13 +1,17 @@
 <div align="center">
 
-# Hi, I'm Ikponmwosa Ajayi 👋You can call me Osa's
+# Hi, I'm Ikponmwosa Ajayi 👋
 
-### Student developer building practical AI, machine-learning, and full-stack applications
+### AI, Machine Learning, Backend & Full-Stack Developer
+
+I build practical applications using machine learning, large language models,  
+computer vision, APIs, and modern web technologies.
 
 📍 Germany &nbsp;•&nbsp; 🎓 Technische Hochschule Deggendorf
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikponmwosa-ajayi/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayi.ikponmwosa108@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayi.ikponmwosa108@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajayi108?tab=repositories)
 
 </div>
 
@@ -15,49 +19,80 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I study at **Technische Hochschule Deggendorf**.
-- 🤖 I enjoy turning ideas into useful **AI and machine-learning applications**.
-- 🧠 My projects include predictive models, computer vision, chatbots, and AI-powered content generation.
-- 🌱 I am continually improving my software engineering, model deployment, and full-stack development skills.
+- 🎓 I am a student at **Technische Hochschule Deggendorf** in Germany.
+- 🤖 I build applications using **AI, machine learning, and large language models**.
+- ⚙️ I develop backend APIs using **FastAPI**.
+- 🗄️ I work with **SQL** and **MongoDB** for storing and managing application data.
+- 🧠 I have worked with **Hugging Face, EuroLLM, Ollama, and the Gemini API**.
+- 👁️ I use **OpenCV** for image processing and computer-vision projects.
+- 🌐 I also build full-stack applications using **TypeScript and JavaScript**.
+- 🚀 I enjoy turning ideas into useful, practical software.
 
-## 🛠️ Technologies I've Worked With
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,docker,git,github" alt="Python, TypeScript, JavaScript, Docker, Git and GitHub" />
-</p>
+## 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
-</p>
+### Programming Languages
 
-## 🚀 Featured Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-| Project | Description | Main Technologies |
-|---|---|---|
-| [**AI Presentation Generator**](https://github.com/Ajayi108/Presentation_Gen) | Generates PowerPoint presentations from a topic, with AI-written slide content and optional images. | Python, Streamlit, Gemini, Unsplash, python-pptx |
-| [**Titanic Survival Prediction App**](https://github.com/Ajayi108/Titanic-Survival-Prediction-App) | A full-stack application that predicts whether a passenger would have survived the Titanic disaster. | TypeScript, Python, Docker, Machine Learning |
-| [**Housing Price Prediction**](https://github.com/Ajayi108/Housing-price-prediction) | A multipage prediction app and chatbot for exploring and estimating housing prices across U.S. cities. | Python, Streamlit, scikit-learn, Rasa |
-| [**Optical Marking Recognition System**](https://github.com/Ajayi108/Optical-Marking-Recognition-System) | A Python-based system for optical mark recognition. | Python |
+### Backend & Databases
 
-## 📊 GitHub Activity
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajayi108&show_icons=true&hide_border=true&theme=transparent" alt="Ikponmwosa's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayi108&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</div>
+### AI, Machine Learning & LLMs
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![EuroLLM](https://img.shields.io/badge/EuroLLM-Multilingual_LLM-0057B8?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+
+### Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Development & Deployment
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence and Machine Learning
+- Large Language Models and Generative AI
+- Backend API Development
+- Computer Vision and Image Processing
+- Data-driven Applications
+- Full-Stack Software Development
+
+---
 
 ## 🤝 Let's Connect
 
-I am interested in building useful software, learning from other developers, and collaborating on AI, machine-learning, and full-stack projects.
+I am interested in collaborating on projects involving **AI, machine learning, LLMs, computer vision, backend development, and full-stack applications**.
 
-- LinkedIn: [ikponmwosa-ajayi](https://www.linkedin.com/in/ikponmwosa-ajayi/)
-- Email: [ajayi.ikponmwosa108@gmail.com](mailto:ajayi.ikponmwosa108@gmail.com)
+Feel free to contact me through LinkedIn or email.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikponmwosa_Ajayi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikponmwosa-ajayi/)
+[![Email](https://img.shields.io/badge/Email-ajayi.ikponmwosa108-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayi.ikponmwosa108@gmail.com)
 
 ---
 
 <div align="center">
-  <i>Thanks for visiting my profile.</i>
+
+### Thanks for visiting my profile! 👋
+
 </div>
