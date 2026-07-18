@@ -4,8 +4,7 @@
 
 ### AI, Machine Learning, Backend & Full-Stack Developer
 
-I build practical applications using machine learning, large language models,  
-computer vision, APIs, and modern web technologies.
+BSc Artificial Intelligence student | Python, Machine Learning, FastAPI and Docker | Building practical AI applications
 
 📍 Germany &nbsp;•&nbsp; 🎓 Technische Hochschule Deggendorf
 
